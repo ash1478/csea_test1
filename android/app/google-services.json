@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255720228727",
+    "firebase_url": "https://test-71122.firebaseio.com",
+    "project_id": "test-71122",
+    "storage_bucket": "test-71122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255720228727:android:307cc44f412a1fe2",
+        "android_client_info": {
+          "package_name": "com.tridents.csea_test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255720228727-10d2gvbvl2agdjgmet8dm5nau89u7ubt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4DNUcRNbpzWc-WEokE5wprX3GeQ_YGJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255720228727-10d2gvbvl2agdjgmet8dm5nau89u7ubt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
